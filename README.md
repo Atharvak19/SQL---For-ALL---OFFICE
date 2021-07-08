@@ -1,5 +1,5 @@
 # SQL---For-ALL---OFFICE
-This repository will have OFFICE Table schema, question to write queries and also contains answers to them.
+This repository will have OFFICE Database structure, question to write queries and also contains answers to them.
 
 It contains - OFFICE TABLE from which, you can refer and buidl schema and also add your own tbales or rows or columns if you want. Then it has question pdf, where you can find all the questions for your practice and then there is a answer pdf where you would find answers to all of the questions.
 
